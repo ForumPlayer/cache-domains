@@ -1,0 +1,5 @@
+youtube.com
+*.youtube.com
+*.googlevideo.com
+i.ytimg.com
+fonts.googleapis.com

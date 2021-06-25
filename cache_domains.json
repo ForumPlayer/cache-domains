@@ -19,6 +19,11 @@
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
 			"domain_files": ["xboxlive.txt"]
+		},
+		{
+			"name": "youtube",
+			"description": "CDN for youtube platform",
+			"domain_files": ["youtube.txt"]
 		}
 	]
 }
