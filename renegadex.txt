@@ -1,8 +1,0 @@
-rxmirror.ctgamehosts.uk
-mirror.us.tyrant.gg
-mirror.usa.tyrant.gg
-rxp-de1.ts3-server.ch
-rxp-lax2.cncfps.com
-us-lv.buyvm.renegade-x.com
-us-ny.buyvm.renegade-x.com
-eu-lux.buyvm.renegade-x.com
